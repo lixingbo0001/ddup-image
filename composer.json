@@ -1,0 +1,27 @@
+{
+  "name": "ddup/image",
+  "description": "图片处理",
+  "type": "library",
+  "keywords": [
+    "event",
+    "ddup"
+  ],
+  "require": {
+    "ddup/part": "^1.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ddup\\Image\\": "src",
+      "Ddup\\Image\\Test\\": "test"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.5"
+  },
+  "authors": [
+    {
+      "name": "xingbo.li",
+      "email": "1711293058@qq.com"
+    }
+  ]
+}
