@@ -7,7 +7,7 @@
     "ddup"
   ],
   "require": {
-    "ddup/part": "^1.1"
+    "ddup/part": "^1.3"
   },
   "autoload": {
     "psr-4": {
